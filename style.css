@@ -1,0 +1,49 @@
+h1 {
+    font-size: xx-large; color: white;
+}
+
+p   {
+    color: white;
+}
+
+h2 {
+    color: beige;
+}
+
+
+article {
+    background-color: rgba(0,0,0,0.9);    
+    padding: 100px;
+}
+
+
+#item1 {
+    background-color: rgba(0,0,0,0.9);
+color: orange;
+}
+
+
+#item2 {
+    background-color: rgba(0,0,0,0.1);
+color: yellow;
+}
+
+
+#item3 {
+    background-color: darkslategray;
+color: greenyellow;
+}
+
+
+#item4 {
+    background-color: maroon;
+color: salmon;
+}
+
+
+#item5 {
+    background-color: saddlebrown;
+color: bisque;
+}
+
+
